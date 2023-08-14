@@ -1,4 +1,4 @@
-# employee_list
+# employee list management
 
 A new Flutter project.
 
